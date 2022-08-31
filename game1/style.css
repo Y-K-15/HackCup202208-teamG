@@ -1,0 +1,13 @@
+.slot {
+  float: left;
+  width: calc(100% / 3);
+  font-size: 40px;
+}
+
+.game {
+background-color: #BFE9DB;
+margin: 0 auto;
+width: 400px;
+height: 200px;
+text-align: center;
+}
